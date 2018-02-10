@@ -13,6 +13,7 @@
 
 ## Microservices in Production
 * [GOTO 2016 • Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned • R. Meshenberg](https://www.youtube.com/watch?v=57UK46qfBLY)
+* [GOTO 2016 • Deploying And Scaling Microservices • Sam Newman](https://www.youtube.com/watch?v=sO0RKuVhfw4)
 
 ## Microservices on Cloud
 * Deploying Microservices on AWS cloud - [An Overview of Designing Microservices - March 2017 AWS Online Tech Talks](https://www.youtube.com/watch?v=Ijs55IA8DIk)
